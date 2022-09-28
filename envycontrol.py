@@ -6,6 +6,8 @@ import re
 import subprocess
 
 # Pre-configured with VFIO mode. Supply your own IDs below!
+# To download, type this in your terminal (without "#"):
+# mkdir ~/build && cd ~/build && git clone https://github.com/firelightning13/envycontrol-vfio.git
 
 VERSION = '2.1.1'
 
